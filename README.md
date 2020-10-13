@@ -1,5 +1,5 @@
-# coding-train-bouncing-dvd
-Coding Trains Bouncing DVD Coding Challenge
+# coding-train-bouncing Doggoes
+Based off of Coding Trains Bouncing DVD Coding Challenge
 
 #### Link to Contributing md repo
 https://github.com/CodingTrain/website/blob/master/_CodingChallenges/131-bouncing-dvd-logo.md
